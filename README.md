@@ -63,6 +63,7 @@ Campos opcionais:
 ### DELETE /api/Atividades/{id}
 Exclui uma atividade.
 🔐 Requer JWT.
+
 ---
 ## 🎉 Eventos
 ### GET /api/Eventos
@@ -99,6 +100,7 @@ Campos opcionais:
 ### DELETE /api/Eventos/{id}
 Exclui um evento.
 🔐 Requer JWT.
+
 ---
 ## 📨 Ouvidoria
 ### GET /api/Ouvidoria
@@ -125,6 +127,7 @@ Atualiza os dados da mensagem.
 Campos opcionais:
 - Titulo
 - Descricao
+
 ---
 ## 💰 Doações
 ### POST /api/Doacao
@@ -143,6 +146,7 @@ Retorna as doações feitas pelo usuário autenticado.
 ### GET /api/Doacao/admin
 Retorna todas as doações (acesso administrativo).
 🔐 Requer JWT.
+
 ---
 ## 📄 Transparência
 ### GET /api/Transparencia
@@ -179,6 +183,7 @@ Campos opcionais:
 ### GET /api/Transparencia/download/{id}
 Baixa o arquivo PDF.
 🔓 Acesso livre.
+
 ---
 ## 🌐 Backend publicada no Azure:
 [https://ads2-2025-2-djcbfjadeparacd0.eastus-01.azurewebsites.net/swagger/index.html](https://ads2-2025-2-djcbfjadeparacd0.eastus-01.azurewebsites.net/swagger/index.html)
@@ -215,6 +220,7 @@ A API subirá em:
 Abra:
 https://localhost:7220/swagger/index.html
 Agora você pode testar todos os endpoints localmente.
+
 ---
 ## 🔑 Como obter o token JWT (Login)
 
@@ -265,6 +271,7 @@ Se você estiver rodando o projeto localmente, pode criar seus próprios usuári
 > Isso fará com que o token JWT gerado inclua o claim "Admin", permitindo acessar rotas protegidas por autorização administrativa.
 
 Este procedimento garante segurança no ambiente público e flexibilidade no ambiente de desenvolvimento.
+
 ---
 ## 🧰 Tecnologias Utilizadas:
 - ASP.NET Core
