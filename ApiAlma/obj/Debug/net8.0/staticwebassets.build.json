@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "DBcRdXZfFknHcne6hxailb3Ij982UAyiz4tKoWpR/lE=",
+  "Source": "Servidor_PI",
+  "BasePath": "_content/Servidor_PI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Servidor_PI\\wwwroot",
+      "Source": "Servidor_PI",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\09c081bc-83c2-451d-8bde-f2b4a3ecaed8.png",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "imagens_atividades/09c081bc-83c2-451d-8bde-f2b4a3ecaed8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "342q5s2tzg",
+      "Integrity": "zf2kBLN+HuDTAGWx7URlNI2vWmDIqn2C99L708jZGLo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens_atividades\\09c081bc-83c2-451d-8bde-f2b4a3ecaed8.png"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\1a4f701b-13bc-4620-8349-3a56a405d045.png",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "imagens_atividades/1a4f701b-13bc-4620-8349-3a56a405d045#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j9xho8lchj",
+      "Integrity": "WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens_atividades\\1a4f701b-13bc-4620-8349-3a56a405d045.png"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\23453b9f-5d4d-4a03-a512-bed794cbe02e.png",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "imagens_atividades/23453b9f-5d4d-4a03-a512-bed794cbe02e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j9xho8lchj",
+      "Integrity": "WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens_atividades\\23453b9f-5d4d-4a03-a512-bed794cbe02e.png"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\2b692b22-989d-4563-8a58-efcbd9ec31ec.png",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "imagens_atividades/2b692b22-989d-4563-8a58-efcbd9ec31ec#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oxbcllcrp2",
+      "Integrity": "lA9Xl4KyfriMR744BZ0Y/G9nnRQ22nt89ecEbMd/sw8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens_atividades\\2b692b22-989d-4563-8a58-efcbd9ec31ec.png"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\679e2f16-785d-475d-a932-b7da8d9b6123.png",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "imagens_atividades/679e2f16-785d-475d-a932-b7da8d9b6123#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dm418nslia",
+      "Integrity": "pZFd70rCTyMYdqbdpm0zhoqbMUr+Q5z4wXzqocGq79I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens_atividades\\679e2f16-785d-475d-a932-b7da8d9b6123.png"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\d5b6d2b5-bc58-4ed3-9ab7-f87c0cf749b9.png",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "imagens_atividades/d5b6d2b5-bc58-4ed3-9ab7-f87c0cf749b9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k7i3cmwh33",
+      "Integrity": "8GLzxf5VIqMFKqmAa8oZSYJ9JksnILge6jZMj24uM8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens_atividades\\d5b6d2b5-bc58-4ed3-9ab7-f87c0cf749b9.png"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\ecdbbba7-10c1-4bc5-a60a-d72c8e743560.pdf",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "imagens_atividades/ecdbbba7-10c1-4bc5-a60a-d72c8e743560#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ihyu7dsedh",
+      "Integrity": "FgVy1wI8uTNs+8EZSIW9HvPsfZFIr3i4DCc6V8o29OY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens_atividades\\ecdbbba7-10c1-4bc5-a60a-d72c8e743560.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\edad5df6-816a-480d-b7e7-b753d09e189f.png",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "imagens_atividades/edad5df6-816a-480d-b7e7-b753d09e189f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lrmj83qyji",
+      "Integrity": "AQ7iDUMSubQHmoHn8h7aDzcG3ZY1Uq7w0TsabNr/o60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens_atividades\\edad5df6-816a-480d-b7e7-b753d09e189f.png"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_eventos\\40e4b49c-2171-4088-a4d2-ea63e1abdb92.png",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "imagens_eventos/40e4b49c-2171-4088-a4d2-ea63e1abdb92#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bs4jg6i1g2",
+      "Integrity": "++bMu5VCm7BgrPUnCVzrE/sDt1VvdLFYJ7T9G3dOg8c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens_eventos\\40e4b49c-2171-4088-a4d2-ea63e1abdb92.png"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\uploads\\4d07bb4e-20e2-4fb0-9d0a-babceaa32ef6.pdf",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "uploads/4d07bb4e-20e2-4fb0-9d0a-babceaa32ef6#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "he2yx33421",
+      "Integrity": "qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4d07bb4e-20e2-4fb0-9d0a-babceaa32ef6.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\uploads_transparencia\\4149e9df-c146-455f-9f29-062ef16b0311.pdf",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "uploads_transparencia/4149e9df-c146-455f-9f29-062ef16b0311#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "he2yx33421",
+      "Integrity": "qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads_transparencia\\4149e9df-c146-455f-9f29-062ef16b0311.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\uploads_transparencia\\90bcf06f-c82c-4ba7-8edb-28fff5002644.pdf",
+      "SourceId": "Servidor_PI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\",
+      "BasePath": "_content/Servidor_PI",
+      "RelativePath": "uploads_transparencia/90bcf06f-c82c-4ba7-8edb-28fff5002644#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4usntgoca1",
+      "Integrity": "RBErin7qDg2ySE18D8CrK7Wc33Cb/A/ZNiS2FIaLB+A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads_transparencia\\90bcf06f-c82c-4ba7-8edb-28fff5002644.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagens_atividades/09c081bc-83c2-451d-8bde-f2b4a3ecaed8.342q5s2tzg.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\09c081bc-83c2-451d-8bde-f2b4a3ecaed8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zf2kBLN+HuDTAGWx7URlNI2vWmDIqn2C99L708jZGLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:21:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "342q5s2tzg"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens_atividades/09c081bc-83c2-451d-8bde-f2b4a3ecaed8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zf2kBLN+HuDTAGWx7URlNI2vWmDIqn2C99L708jZGLo="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/09c081bc-83c2-451d-8bde-f2b4a3ecaed8.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\09c081bc-83c2-451d-8bde-f2b4a3ecaed8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zf2kBLN+HuDTAGWx7URlNI2vWmDIqn2C99L708jZGLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:21:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zf2kBLN+HuDTAGWx7URlNI2vWmDIqn2C99L708jZGLo="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/1a4f701b-13bc-4620-8349-3a56a405d045.j9xho8lchj.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\1a4f701b-13bc-4620-8349-3a56a405d045.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 00:05:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j9xho8lchj"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens_atividades/1a4f701b-13bc-4620-8349-3a56a405d045.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/1a4f701b-13bc-4620-8349-3a56a405d045.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\1a4f701b-13bc-4620-8349-3a56a405d045.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 00:05:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/23453b9f-5d4d-4a03-a512-bed794cbe02e.j9xho8lchj.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\23453b9f-5d4d-4a03-a512-bed794cbe02e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 03:05:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j9xho8lchj"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens_atividades/23453b9f-5d4d-4a03-a512-bed794cbe02e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/23453b9f-5d4d-4a03-a512-bed794cbe02e.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\23453b9f-5d4d-4a03-a512-bed794cbe02e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 03:05:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WbWCMDJ17+XwBo7dilBwzbaLabBVDB957hHa7PeLuIk="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/2b692b22-989d-4563-8a58-efcbd9ec31ec.oxbcllcrp2.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\2b692b22-989d-4563-8a58-efcbd9ec31ec.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lA9Xl4KyfriMR744BZ0Y/G9nnRQ22nt89ecEbMd/sw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:21:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxbcllcrp2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens_atividades/2b692b22-989d-4563-8a58-efcbd9ec31ec.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lA9Xl4KyfriMR744BZ0Y/G9nnRQ22nt89ecEbMd/sw8="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/2b692b22-989d-4563-8a58-efcbd9ec31ec.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\2b692b22-989d-4563-8a58-efcbd9ec31ec.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lA9Xl4KyfriMR744BZ0Y/G9nnRQ22nt89ecEbMd/sw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:21:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lA9Xl4KyfriMR744BZ0Y/G9nnRQ22nt89ecEbMd/sw8="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/679e2f16-785d-475d-a932-b7da8d9b6123.dm418nslia.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\679e2f16-785d-475d-a932-b7da8d9b6123.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "261215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pZFd70rCTyMYdqbdpm0zhoqbMUr+Q5z4wXzqocGq79I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dm418nslia"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens_atividades/679e2f16-785d-475d-a932-b7da8d9b6123.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pZFd70rCTyMYdqbdpm0zhoqbMUr+Q5z4wXzqocGq79I="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/679e2f16-785d-475d-a932-b7da8d9b6123.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\679e2f16-785d-475d-a932-b7da8d9b6123.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "261215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pZFd70rCTyMYdqbdpm0zhoqbMUr+Q5z4wXzqocGq79I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pZFd70rCTyMYdqbdpm0zhoqbMUr+Q5z4wXzqocGq79I="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/d5b6d2b5-bc58-4ed3-9ab7-f87c0cf749b9.k7i3cmwh33.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\d5b6d2b5-bc58-4ed3-9ab7-f87c0cf749b9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8GLzxf5VIqMFKqmAa8oZSYJ9JksnILge6jZMj24uM8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k7i3cmwh33"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens_atividades/d5b6d2b5-bc58-4ed3-9ab7-f87c0cf749b9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8GLzxf5VIqMFKqmAa8oZSYJ9JksnILge6jZMj24uM8s="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/d5b6d2b5-bc58-4ed3-9ab7-f87c0cf749b9.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\d5b6d2b5-bc58-4ed3-9ab7-f87c0cf749b9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8GLzxf5VIqMFKqmAa8oZSYJ9JksnILge6jZMj24uM8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8GLzxf5VIqMFKqmAa8oZSYJ9JksnILge6jZMj24uM8s="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/ecdbbba7-10c1-4bc5-a60a-d72c8e743560.ihyu7dsedh.pdf",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\ecdbbba7-10c1-4bc5-a60a-d72c8e743560.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FgVy1wI8uTNs+8EZSIW9HvPsfZFIr3i4DCc6V8o29OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 03:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ihyu7dsedh"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens_atividades/ecdbbba7-10c1-4bc5-a60a-d72c8e743560.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgVy1wI8uTNs+8EZSIW9HvPsfZFIr3i4DCc6V8o29OY="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/ecdbbba7-10c1-4bc5-a60a-d72c8e743560.pdf",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\ecdbbba7-10c1-4bc5-a60a-d72c8e743560.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FgVy1wI8uTNs+8EZSIW9HvPsfZFIr3i4DCc6V8o29OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 03:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgVy1wI8uTNs+8EZSIW9HvPsfZFIr3i4DCc6V8o29OY="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/edad5df6-816a-480d-b7e7-b753d09e189f.lrmj83qyji.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\edad5df6-816a-480d-b7e7-b753d09e189f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1529855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AQ7iDUMSubQHmoHn8h7aDzcG3ZY1Uq7w0TsabNr/o60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 03:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrmj83qyji"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens_atividades/edad5df6-816a-480d-b7e7-b753d09e189f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AQ7iDUMSubQHmoHn8h7aDzcG3ZY1Uq7w0TsabNr/o60="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_atividades/edad5df6-816a-480d-b7e7-b753d09e189f.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_atividades\\edad5df6-816a-480d-b7e7-b753d09e189f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1529855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AQ7iDUMSubQHmoHn8h7aDzcG3ZY1Uq7w0TsabNr/o60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 03:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AQ7iDUMSubQHmoHn8h7aDzcG3ZY1Uq7w0TsabNr/o60="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_eventos/40e4b49c-2171-4088-a4d2-ea63e1abdb92.bs4jg6i1g2.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_eventos\\40e4b49c-2171-4088-a4d2-ea63e1abdb92.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"++bMu5VCm7BgrPUnCVzrE/sDt1VvdLFYJ7T9G3dOg8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 18:52:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bs4jg6i1g2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens_eventos/40e4b49c-2171-4088-a4d2-ea63e1abdb92.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-++bMu5VCm7BgrPUnCVzrE/sDt1VvdLFYJ7T9G3dOg8c="
+        }
+      ]
+    },
+    {
+      "Route": "imagens_eventos/40e4b49c-2171-4088-a4d2-ea63e1abdb92.png",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\imagens_eventos\\40e4b49c-2171-4088-a4d2-ea63e1abdb92.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"++bMu5VCm7BgrPUnCVzrE/sDt1VvdLFYJ7T9G3dOg8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 18:52:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-++bMu5VCm7BgrPUnCVzrE/sDt1VvdLFYJ7T9G3dOg8c="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4d07bb4e-20e2-4fb0-9d0a-babceaa32ef6.he2yx33421.pdf",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\uploads\\4d07bb4e-20e2-4fb0-9d0a-babceaa32ef6.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 03:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "he2yx33421"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4d07bb4e-20e2-4fb0-9d0a-babceaa32ef6.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4d07bb4e-20e2-4fb0-9d0a-babceaa32ef6.pdf",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\uploads\\4d07bb4e-20e2-4fb0-9d0a-babceaa32ef6.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 03:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads_transparencia/4149e9df-c146-455f-9f29-062ef16b0311.he2yx33421.pdf",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\uploads_transparencia\\4149e9df-c146-455f-9f29-062ef16b0311.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 03:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "he2yx33421"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads_transparencia/4149e9df-c146-455f-9f29-062ef16b0311.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads_transparencia/4149e9df-c146-455f-9f29-062ef16b0311.pdf",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\uploads_transparencia\\4149e9df-c146-455f-9f29-062ef16b0311.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 03:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qR0ShfQmihN71AqlLSqM4IZD83zFiSFC+Okl08mfMNQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads_transparencia/90bcf06f-c82c-4ba7-8edb-28fff5002644.4usntgoca1.pdf",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\uploads_transparencia\\90bcf06f-c82c-4ba7-8edb-28fff5002644.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RBErin7qDg2ySE18D8CrK7Wc33Cb/A/ZNiS2FIaLB+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:49:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4usntgoca1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads_transparencia/90bcf06f-c82c-4ba7-8edb-28fff5002644.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RBErin7qDg2ySE18D8CrK7Wc33Cb/A/ZNiS2FIaLB+A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads_transparencia/90bcf06f-c82c-4ba7-8edb-28fff5002644.pdf",
+      "AssetFile": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programação Orientada a Objetos\\ApiAtualizada\\wwwroot\\uploads_transparencia\\90bcf06f-c82c-4ba7-8edb-28fff5002644.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RBErin7qDg2ySE18D8CrK7Wc33Cb/A/ZNiS2FIaLB+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Nov 2025 17:49:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RBErin7qDg2ySE18D8CrK7Wc33Cb/A/ZNiS2FIaLB+A="
+        }
+      ]
+    }
+  ]
+}

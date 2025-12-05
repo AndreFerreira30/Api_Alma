@@ -1,0 +1,625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\emailservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\emailservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\atividadesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\atividadesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\servidor_pi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:servidor_pi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\controllers\\atividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:controllers\\atividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\controllers\\doacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:controllers\\doacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\controllers\\ouvidoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:controllers\\ouvidoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\controllers\\transparenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:controllers\\transparenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\data\\map\\doacaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:data\\map\\doacaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\data\\map\\ouvidoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:data\\map\\ouvidoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\data\\map\\usuariosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:data\\map\\usuariosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\models\\doacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:models\\doacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\models\\ouvidoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:models\\ouvidoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\models\\transparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:models\\transparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\interfaces\\iatividadesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\interfaces\\iatividadesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\interfaces\\idoacaorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\interfaces\\idoacaorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\interfaces\\iouvidoriarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\interfaces\\iouvidoriarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\interfaces\\itransparenciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\interfaces\\itransparenciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\interfaces\\iusuariosrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\interfaces\\iusuariosrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\doacaorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\doacaorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\eventosrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\eventosrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\ouvidoriarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\ouvidoriarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\transparenciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\transparenciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\repositories\\usuariosrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:repositories\\usuariosrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\services\\jwtbeareroperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:services\\jwtbeareroperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\dtos\\usuarioscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:dtos\\usuarioscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\dtos\\ouvidoriacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:dtos\\ouvidoriacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\dtos\\transparenciauploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:dtos\\transparenciauploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\dtos\\atividadesuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:dtos\\atividadesuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\migrations\\20251114000728_[atualizandobd].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:migrations\\20251114000728_[atualizandobd].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|c:\\users\\andre\\source\\repos\\2025-2-nads2\\api_alma\\documentos\\entrega 2\\programa\u00E7\u00E3o orientada a objetos\\apiatualizada\\migrations\\20251115232102_mudan\u00E7adoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15BE9C-4472-4F68-A274-603F49C39FD3}|Servidor_PI.csproj|solutionrelative:migrations\\20251115232102_mudan\u00E7adoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servidor_PI.http",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Servidor_PI.http",
+              "RelativeDocumentMoniker": "Servidor_PI.http",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Servidor_PI.http",
+              "RelativeToolTip": "Servidor_PI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-05T17:28:22.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\DoacaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoacaoController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\DoacaoController.cs",
+              "RelativeToolTip": "Controllers\\DoacaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:52:29.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AtividadesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\AtividadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AtividadesController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\AtividadesController.cs",
+              "RelativeToolTip": "Controllers\\AtividadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:12:01.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:20:21.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:21:49.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtividadesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\AtividadesRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\AtividadesRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\AtividadesRepo.cs",
+              "RelativeToolTip": "Repositories\\AtividadesRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:22:01.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailServiceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\EmailServiceRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmailServiceRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\EmailServiceRepo.cs",
+              "RelativeToolTip": "Repositories\\EmailServiceRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:54:06.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "Controllers\\EventosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:53:28.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OuvidoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\OuvidoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OuvidoriaController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\OuvidoriaController.cs",
+              "RelativeToolTip": "Controllers\\OuvidoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:52:32.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransparenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\TransparenciaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransparenciaController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\TransparenciaController.cs",
+              "RelativeToolTip": "Controllers\\TransparenciaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:45:04.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:31:38.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoacaoMap.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Data\\Map\\DoacaoMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\DoacaoMap.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Data\\Map\\DoacaoMap.cs",
+              "RelativeToolTip": "Data\\Map\\DoacaoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:52:26.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OuvidoriaMap.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Data\\Map\\OuvidoriaMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\OuvidoriaMap.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Data\\Map\\OuvidoriaMap.cs",
+              "RelativeToolTip": "Data\\Map\\OuvidoriaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:49:17.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuariosMap.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Data\\Map\\UsuariosMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\UsuariosMap.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Data\\Map\\UsuariosMap.cs",
+              "RelativeToolTip": "Data\\Map\\UsuariosMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:31:45.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doacao.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Models\\Doacao.cs",
+              "RelativeDocumentMoniker": "Models\\Doacao.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Models\\Doacao.cs",
+              "RelativeToolTip": "Models\\Doacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:09:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ouvidoria.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Models\\Ouvidoria.cs",
+              "RelativeDocumentMoniker": "Models\\Ouvidoria.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Models\\Ouvidoria.cs",
+              "RelativeToolTip": "Models\\Ouvidoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:07:04.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Transparencia.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Models\\Transparencia.cs",
+              "RelativeDocumentMoniker": "Models\\Transparencia.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Models\\Transparencia.cs",
+              "RelativeToolTip": "Models\\Transparencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:45:47.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Models\\Usuarios.cs",
+              "RelativeToolTip": "Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:10:56.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAtividadesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IAtividadesRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IAtividadesRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IAtividadesRepo.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IAtividadesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:55:49.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDoacaoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IDoacaoRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IDoacaoRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IDoacaoRepo.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IDoacaoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:27:57.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:19:08.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOuvidoriaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IOuvidoriaRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IOuvidoriaRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IOuvidoriaRepo.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IOuvidoriaRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:57:57.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITransparenciaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\ITransparenciaRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ITransparenciaRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\ITransparenciaRepo.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ITransparenciaRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:58:03.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUsuariosRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IUsuariosRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUsuariosRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\Interfaces\\IUsuariosRepo.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IUsuariosRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:58:09.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoacaoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\DoacaoRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\DoacaoRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\DoacaoRepo.cs",
+              "RelativeToolTip": "Repositories\\DoacaoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:26:57.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventosRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\EventosRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\EventosRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\EventosRepo.cs",
+              "RelativeToolTip": "Repositories\\EventosRepo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:27:13.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OuvidoriaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\OuvidoriaRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\OuvidoriaRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\OuvidoriaRepo.cs",
+              "RelativeToolTip": "Repositories\\OuvidoriaRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:27:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TransparenciaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\TransparenciaRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\TransparenciaRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\TransparenciaRepo.cs",
+              "RelativeToolTip": "Repositories\\TransparenciaRepo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:27:25.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsuariosRepo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\UsuariosRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuariosRepo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Repositories\\UsuariosRepo.cs",
+              "RelativeToolTip": "Repositories\\UsuariosRepo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:27:36.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:57:04.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JwtBearerOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Services\\JwtBearerOperationFilter.cs",
+              "RelativeDocumentMoniker": "Services\\JwtBearerOperationFilter.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Services\\JwtBearerOperationFilter.cs",
+              "RelativeToolTip": "Services\\JwtBearerOperationFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:56:09.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UsuariosCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\DTOs\\UsuariosCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsuariosCreateDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\DTOs\\UsuariosCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\UsuariosCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:42:26.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OuvidoriaCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\DTOs\\OuvidoriaCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OuvidoriaCreateDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\DTOs\\OuvidoriaCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\OuvidoriaCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:14:41.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TransparenciaUploadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\DTOs\\TransparenciaUploadDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\TransparenciaUploadDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\DTOs\\TransparenciaUploadDTO.cs",
+              "RelativeToolTip": "DTOs\\TransparenciaUploadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:48:16.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251115232102_Mudan\u00E7aDoacao.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Migrations\\20251115232102_Mudan\u00E7aDoacao.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251115232102_Mudan\u00E7aDoacao.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Migrations\\20251115232102_Mudan\u00E7aDoacao.cs",
+              "RelativeToolTip": "Migrations\\20251115232102_Mudan\u00E7aDoacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:21:02.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AtividadesUploadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\DTOs\\AtividadesUploadDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AtividadesUploadDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\DTOs\\AtividadesUploadDTO.cs",
+              "RelativeToolTip": "DTOs\\AtividadesUploadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:25:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251114000728_[AtualizandoBd].cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Migrations\\20251114000728_[AtualizandoBd].cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114000728_[AtualizandoBd].cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\2025-2-NADS2\\Api_Alma\\documentos\\Entrega 2\\Programa\u00E7\u00E3o Orientada a Objetos\\ApiAtualizada\\Migrations\\20251114000728_[AtualizandoBd].cs",
+              "RelativeToolTip": "Migrations\\20251114000728_[AtualizandoBd].cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:07:28.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
