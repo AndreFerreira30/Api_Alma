@@ -48,13 +48,12 @@ Cria uma nova atividade.
 
 
 🔐 Requer JWT.
-
+📤 multipart/form-data)
 
 Campos obrigatórios:
-- Imagem (📤 multipart/form-data)
 - Titulo
 - Descricao
-- ImagemArquivo (arquivo)
+- ImagemArquivo (📤 arquivo)
 
 ### GET /api/Atividades/{id}
 Obtém os detalhes de uma atividade específica.
@@ -75,7 +74,7 @@ Atualiza uma atividade existente.
 Campos opcionais:
 - Titulo
 - Descricao
-- ImagemArquivo
+- ImagemArquivo (📤 arquivo)
 
 ### DELETE /api/Atividades/{id}
 Exclui uma atividade.
@@ -105,7 +104,7 @@ Campos obrigatórios:
 - Titulo
 - Descricao
 - LocalEvento
-- ImagemArquivo
+- ImagemArquivo (📤 arquivo)
 Campos opcionais:
 - DataEvento (date-time)
 
@@ -130,7 +129,7 @@ Campos opcionais:
 - Descricao
 - DataEvento
 - LocalEvento
-- ImagemArquivo
+- ImagemArquivo (📤 arquivo)
 
 ### DELETE /api/Eventos/{id}
 Exclui um evento.
@@ -150,10 +149,7 @@ Lista todas as mensagens enviadas.
 Envia uma nova mensagem de ouvidoria.
 
 
-🔐 Requer JWT.
-
-
-📤 multipart/form-data
+🔐 Requer JWT(Usuario).
 
 
 Campos obrigatórios:
@@ -174,9 +170,6 @@ Atualiza os dados da mensagem.
 🔐 Requer JWT.
 
 
-📤 multipart/form-data
-
-
 Campos opcionais:
 - Titulo
 - Descricao
@@ -187,8 +180,8 @@ Campos opcionais:
 Registra uma nova doação.
 
 
-📤 JSON
-Body baseado em DoacaoCreateDTO.
+JSON
+Body baseado em DoacaoCreateDTO ("valor da doação" e "descrição" <-opcional )
 
 ### POST /api/Doacao/webhook
 Webhook para receber notificações externas (Mercado Pago).
@@ -228,7 +221,7 @@ Envia um novo documento PDF.
 
 Campos obrigatórios:
 - Titulo
-- PdfFile
+- PdfFile (📤 arquivo)
 - Campos opcionais:
 - Descricao
 
@@ -257,7 +250,7 @@ Atualiza um registro de transparência.
 Campos opcionais:
 - Titulo
 - Descricao
-- PdfFile
+- PdfFile (📤 arquivo)
 
 ### GET /api/Transparencia/download/{id}
 Baixa o arquivo PDF.
