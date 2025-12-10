@@ -43,7 +43,11 @@ Lista todas as atividades.
 
 ### POST /api/Atividades
 Cria uma nova atividade.
+
+
 🔐 Requer JWT.
+
+
 📤 multipart/form-data
 Campos obrigatórios:
 - Titulo
