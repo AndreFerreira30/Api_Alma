@@ -1,5 +1,6 @@
 # 📘 Instituto Alma – API
 API RESTful desenvolvida em ASP.NET Core com autenticação JWT para gestão de atividades, eventos, ouvidoria, doações, transparência e usuários. Este backend fornece os endpoints utilizados pelo site e painel administrativo do Instituto Alma.
+
 ---
 ## 📑 Sumário
 
@@ -21,6 +22,7 @@ API RESTful desenvolvida em ASP.NET Core com autenticação JWT para gestão de 
 ## 🔐 Autenticação
 Algumas rotas exigem envio de um JWT no header:
 Authorization: Bearer {seu_token}
+
 ---
 ## 📁 Endpoints da API
 A API está organizada nos seguintes módulos:
@@ -30,6 +32,7 @@ A API está organizada nos seguintes módulos:
 - Doação
 - Transparência
 - Usuários
+
 ---
 
 Abaixo estão todos os endpoints, baseados fielmente na documentação Swagger.
@@ -197,8 +200,8 @@ Baixa o arquivo PDF.
 Siga os passos abaixo para rodar o projeto ASP.NET Core na sua máquina.
 
 ### 📌 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git
-cd NOME_DO_REPO
+git clone https://github.com/AndreFerreira30/Api_Alma.git
+cd ApiAlma
 
 ### 📌 2. Instale as dependências
 dotnet restore
@@ -206,9 +209,9 @@ dotnet restore
 ### 📌 3. Configure o banco de dados
 O projeto usa Entity Framework Core.
 Crie o banco automaticamente rodando:
-dotnet ef database update
+"dotnet ef database update"
 Se der erro de “dotnet ef não encontrado”, instale o pacote global:
-dotnet tool install --global dotnet-ef
+"dotnet tool install --global dotnet-ef"
 
 ### 📌 4. Inicie a API
 dotnet run
