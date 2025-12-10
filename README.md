@@ -39,6 +39,8 @@ Abaixo estão todos os endpoints, baseados fielmente na documentação Swagger.
 ## 📝 Atividades 
 ### GET /api/Atividades
 Lista todas as atividades.
+
+
 🔓 Acesso livre.
 
 ### POST /api/Atividades
@@ -58,6 +60,8 @@ Campos obrigatórios:
 
 ### GET /api/Atividades/{id}
 Obtém os detalhes de uma atividade específica.
+
+
 🔓 Acesso livre. 
 
 ### PUT /api/Atividades/{id}
@@ -77,12 +81,16 @@ Campos opcionais:
 
 ### DELETE /api/Atividades/{id}
 Exclui uma atividade.
+
+
 🔐 Requer JWT.
 
 ---
 ## 🎉 Eventos
 ### GET /api/Eventos
 Retorna todos os eventos.
+
+
 🔓 Acesso livre.
 
 ### POST /api/Eventos
@@ -105,6 +113,8 @@ Campos opcionais:
 
 ### GET /api/Eventos/{id}
 Retorna um evento específico.
+
+
 🔓 Acesso livre.
 
 ### PUT /api/Eventos/{id}
@@ -126,12 +136,16 @@ Campos opcionais:
 
 ### DELETE /api/Eventos/{id}
 Exclui um evento.
+
+
 🔐 Requer JWT.
 
 ---
 ## 📨 Ouvidoria
 ### GET /api/Ouvidoria
 Lista todas as mensagens enviadas.
+
+
 🔐 Requer JWT.
 
 ### POST /api/Ouvidoria
@@ -151,6 +165,8 @@ Campos obrigatórios:
 
 ### GET /api/Ouvidoria/{id}
 Retorna uma mensagem específica.
+
+
 🔐 Requer JWT.
 
 ### PUT /api/Ouvidoria/{id}
@@ -178,20 +194,28 @@ Body baseado em DoacaoCreateDTO.
 
 ### POST /api/Doacao/webhook
 Webhook para receber notificações externas (Mercado Pago).
+
+
 🔓 Acesso livre.
 
 ### GET /api/Doacao/me
 Retorna as doações feitas pelo usuário autenticado.
+
+
 🔐 Requer JWT.
 
 ### GET /api/Doacao/admin
 Retorna todas as doações (acesso administrativo).
+
+
 🔐 Requer JWT.
 
 ---
 ## 📄 Transparência
 ### GET /api/Transparencia
 Lista todos os documentos de transparência.
+
+
 🔓 Acesso livre.
 
 ### POST /api/Transparencia
@@ -212,10 +236,14 @@ Campos obrigatórios:
 
 ### GET /api/Transparencia/{id}
 Retorna informações de um documento.
+
+
 🔓 Acesso livre.
 
 ### DELETE /api/Transparencia/{id}
 Exclui um registro de transparência.
+
+
 🔐 Requer JWT.
 
 ### PUT /api/Transparencia/{id}
@@ -235,6 +263,8 @@ Campos opcionais:
 
 ### GET /api/Transparencia/download/{id}
 Baixa o arquivo PDF.
+
+
 🔓 Acesso livre.
 
 ---
