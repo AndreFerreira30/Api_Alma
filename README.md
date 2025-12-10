@@ -48,6 +48,8 @@ Cria uma nova atividade.
 
 
 🔐 Requer JWT.
+
+
 📤 multipart/form-data)
 
 Campos obrigatórios:
@@ -105,6 +107,8 @@ Campos obrigatórios:
 - Descricao
 - LocalEvento
 - ImagemArquivo (📤 arquivo)
+
+
 Campos opcionais:
 - DataEvento (date-time)
 
