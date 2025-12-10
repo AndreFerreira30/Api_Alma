@@ -49,6 +49,8 @@ Cria uma nova atividade.
 
 
 📤 multipart/form-data
+
+
 Campos obrigatórios:
 - Titulo
 - Descricao
@@ -60,8 +62,14 @@ Obtém os detalhes de uma atividade específica.
 
 ### PUT /api/Atividades/{id}
 Atualiza uma atividade existente.
+
+
 🔐 Requer JWT.
+
+
 📤 multipart/form-data
+
+
 Campos opcionais:
 - Titulo
 - Descricao
@@ -79,8 +87,14 @@ Retorna todos os eventos.
 
 ### POST /api/Eventos
 Cria um novo evento.
+
+
 🔐 Requer JWT.
+
+
 📤 multipart/form-data
+
+
 Campos obrigatórios:
 - Titulo
 - Descricao
@@ -95,8 +109,14 @@ Retorna um evento específico.
 
 ### PUT /api/Eventos/{id}
 Atualiza os dados de um evento.
+
+
 🔐 Requer JWT.
+
+
 📤 multipart/form-data
+
+
 Campos opcionais:
 - Titulo
 - Descricao
@@ -116,8 +136,14 @@ Lista todas as mensagens enviadas.
 
 ### POST /api/Ouvidoria
 Envia uma nova mensagem de ouvidoria.
+
+
 🔐 Requer JWT.
+
+
 📤 multipart/form-data
+
+
 Campos obrigatórios:
 - Titulo
 - Descricao
@@ -129,8 +155,14 @@ Retorna uma mensagem específica.
 
 ### PUT /api/Ouvidoria/{id}
 Atualiza os dados da mensagem.
+
+
 🔐 Requer JWT.
+
+
 📤 multipart/form-data
+
+
 Campos opcionais:
 - Titulo
 - Descricao
@@ -139,6 +171,8 @@ Campos opcionais:
 ## 💰 Doações
 ### POST /api/Doacao
 Registra uma nova doação.
+
+
 📤 JSON
 Body baseado em DoacaoCreateDTO.
 
@@ -162,8 +196,14 @@ Lista todos os documentos de transparência.
 
 ### POST /api/Transparencia
 Envia um novo documento PDF.
+
+
 🔐 Requer JWT.
+
+
 📤 multipart/form-data
+
+
 Campos obrigatórios:
 - Titulo
 - PdfFile
@@ -180,8 +220,14 @@ Exclui um registro de transparência.
 
 ### PUT /api/Transparencia/{id}
 Atualiza um registro de transparência.
+
+
 🔐 Requer JWT.
+
+
 📤 multipart/form-data
+
+
 Campos opcionais:
 - Titulo
 - Descricao
@@ -194,9 +240,11 @@ Baixa o arquivo PDF.
 ---
 ## 🌐 Backend publicada no Azure:
 [https://ads2-2025-2-djcbfjadeparacd0.eastus-01.azurewebsites.net/swagger/index.html](https://ads2-2025-2-djcbfjadeparacd0.eastus-01.azurewebsites.net/swagger/index.html)
----
+
+
 ## 🌐 Frontend publicado no Vercel:
 [https://alma-react-hmof.vercel.app](https://alma-react-hmof.vercel.app/)
+
 ---
 
 ## 🚀 Como Rodar o Backend Localmente
