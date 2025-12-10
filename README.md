@@ -50,10 +50,8 @@ Cria uma nova atividade.
 🔐 Requer JWT.
 
 
-📤 multipart/form-data
-
-
 Campos obrigatórios:
+- Imagem (📤 multipart/form-data)
 - Titulo
 - Descricao
 - ImagemArquivo (arquivo)
